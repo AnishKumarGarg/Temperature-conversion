@@ -1,0 +1,9 @@
+.header{
+    width: 100%;
+    background-color: #d0e298;
+    color: #71a546;
+}
+.conversion{
+    display: flex;
+    gap: 7em;
+}
